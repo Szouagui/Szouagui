@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Szouagui
-- 👀 I’m interested in Learning Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Learning Ruby on Rails and Bootstarp.
+- 🌱 I’m currently learning Ruby.
+- 💞️ I’m looking to collaborate on ruby projects
 - 📫 How to reach me saidzouagui@gmail.com
 
 <!---
